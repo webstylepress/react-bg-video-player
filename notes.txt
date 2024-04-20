@@ -1,0 +1,10 @@
+> npm i
+> npm run dev
+
+//////////
+
+React BG Video Player > No Intersection Observer
+React BG Video Player Custom IO > With Custom Intersection Observer
+React BG Video Player React IO > With React Intersection Observer
+
+@webstylepress

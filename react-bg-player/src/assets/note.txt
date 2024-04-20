@@ -1,0 +1,8 @@
+place 
+
+vid.mp4
+vid.ogg
+vid.webm
+vid-image.png 
+
+files in this folder
